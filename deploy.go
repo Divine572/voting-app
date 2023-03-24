@@ -20,7 +20,7 @@ import (
 
 
 // Replace this with your own private key and Celo node URL
-const privateKey = "4b5142ac2fda7684ff95b19266ce0b7ac27397ace6cb29bd1a03aa3cf2f0b933"
+const privateKey = ""
 const nodeURL = "https://alfajores-forno.celo-testnet.org"
 
 func main() {
